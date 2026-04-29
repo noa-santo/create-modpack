@@ -61,6 +61,11 @@ hash = "2e16af87696f93732c20c9ee426b2e27996bee140be17c26011fe47fec586de2"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "08dc422d9c30fc19b569033f7cfd2abcd50134f618fe335b396b41dc6f5f3834"
 metafile = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "6a779976b6752d63fbbb74504c4f0ed74c1df1aa3dfc86c45867eab5cf201a03"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
